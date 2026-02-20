@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Customer Churn Prediction
 
 ## Overview
