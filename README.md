@@ -49,6 +49,18 @@ In business contexts, maximizing recall for churn is often more valuable than ma
 
 ## Project Structure
 
+```
+customer-churn-prediction/
+│
+├── data/
+│   └── raw/
+│       └── Telco_Cusomer_Churn.csv
+│
+├── notebooks/
+│   └── churn_analysis.ipynb
+│
+└── README.md
+```
 
 ## Conclusion
 The project demonstrates an end-to-end data science workflow:
