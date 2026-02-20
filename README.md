@@ -47,6 +47,9 @@ In business contexts, maximizing recall for churn is often more valuable than ma
 - Matplotlib
 - Seaborn
 
+## Project Structure
+
+
 ## Conclusion
 The project demonstrates an end-to-end data science workflow:
 data cleaning, exploratory analysis, model building, evaluation, and business interpretation.
